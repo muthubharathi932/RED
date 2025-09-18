@@ -9,3 +9,4 @@
 //add()
 let _a2 = true, _b2 = false
 console.log(_a2 != _b2)
+console.log(muthu)
