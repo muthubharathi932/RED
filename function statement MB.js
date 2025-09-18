@@ -1,7 +1,7 @@
 // function statement
 // var a=20
 // var b=20
-
+1
 function add()
 {
    console.log(a+b)
