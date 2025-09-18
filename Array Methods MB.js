@@ -4,7 +4,7 @@ Arrays in JavaScript are zero-indexed, meaning the first element is at index 0, 
 //#Basic Operations on JavaScript Arrays
 
 //#Accessing elements of an array
-let a = [789,987,"AB de Villiers"]
+let a = [789,987,"AB de Villiers son"]  
 console.log(a[1])
 console.log(a[2])
 
