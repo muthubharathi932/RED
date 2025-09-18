@@ -1,6 +1,6 @@
-function statement
-var a=20
-var b=20
+// function statement
+// var a=20
+// var b=20
 
 function add()
 {
